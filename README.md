@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Python, DSA, and diving into AI/ML — especially Deep Learning and Computer Vision — while pursuing Electrical Engineering and creating graphic designs for social media.
 
-💞️ I’m looking to collaborate on beginner-friendly AI/ML or creative content projects that combine tech + visual storytelling.
+💞️ I’m looking to collaborate on AI/ML or creative content projects that combine tech + visual storytelling.
 
 📫 How to reach me: parampatel.005@gmail.com
 
