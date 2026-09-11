@@ -1,13 +1,28 @@
-👋 Hi, I’m @Param-Patel-o5
+### AI/ML Engineer | LLMs · RAG Pipelines · Agent Systems · Computer Vision
 
-👀 I’m interested in how AI thinks, how humans decide, and how good design can make both look better on social media.
+B.E. Electronics & Instrumentation + Minor in Computation & Intelligence,
+BITS Pilani Hyderabad ('27). Building systems that debug, retrieve, and
+reason — currently deep in RAG evaluation, agent failure diagnosis, and
+multi-vendor sensor pipelines.
 
-🌱 I’m currently learning Python, DSA, and diving into AI/ML — especially Deep Learning and Computer Vision — while pursuing Electrical Engineering and creating graphic designs for social media.
+**First-author paper** on vendor-agnostic LiDAR data conversion — under
+review at *Software: Practice and Experience* (Wiley, Q2).
 
-💞️ I’m looking to collaborate on AI/ML or creative content projects that combine tech + visual storytelling.
+---
 
-📫 How to reach me: parampatel.005@gmail.com
+**🔭 Currently building**
+- [TempusRAG](link) — temporal RAG over SEC 10-K filings, scoring executive
+  credibility from 5 years of corporate commitments
+- [Agent Failure Diagnostician](link) — framework-agnostic library that
+  diagnoses LLM agent failures from execution traces (LangChain, LangGraph,
+  AutoGen), 88.3% detection accuracy across 7 failure modes
+- [LiDAR PCAP Converter](link) — zero-config vendor detection + point cloud
+  normalization, 2.08M pts/sec, 100% vendor ID across 8 real-world datasets
 
-😄 Pronouns: He/Him
+**🧠 Stack**
+Python · C++ · SQL · PyTorch · Scikit-learn · LangChain · ChromaDB ·
+sentence-transformers · OpenCV · YOLOv11 · Gemini API
 
-⚡ Fun fact: I’ve slept 19 hours in one day… and survived on just 5 hours across 3 days. My sleep schedule runs its own AI model 😴🤖
+**📫 Reach me**
+[LinkedIn](https://www.linkedin.com/in/param-patel-212661310/) ·
+parampatel.005@gmail.com
