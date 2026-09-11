@@ -11,12 +11,12 @@ review at *Software: Practice and Experience* (Wiley, Q2).
 ---
 
 **🔭 Currently building**
-- [TempusRAG](link) — temporal RAG over SEC 10-K filings, scoring executive
+- [TempusRAG](https://github.com/Param-Patel-o5/TempusRAG-Commitment-Intelligence-Engine) — temporal RAG over SEC 10-K filings, scoring executive
   credibility from 5 years of corporate commitments
-- [Agent Failure Diagnostician](link) — framework-agnostic library that
+- [Agent Failure Diagnostician](https://github.com/Param-Patel-o5/agent-failure-diagnostician) — framework-agnostic library that
   diagnoses LLM agent failures from execution traces (LangChain, LangGraph,
   AutoGen), 88.3% detection accuracy across 7 failure modes
-- [LiDAR PCAP Converter](link) — zero-config vendor detection + point cloud
+- [LiDAR PCAP Converter](https://github.com/Param-Patel-o5/lidar-multi-convert) — zero-config vendor detection + point cloud
   normalization, 2.08M pts/sec, 100% vendor ID across 8 real-world datasets
 
 **🧠 Stack**
