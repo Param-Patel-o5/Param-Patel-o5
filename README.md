@@ -46,6 +46,4 @@ Zero-config CLI toolkit and library for raw offline PCAP conversion across 4 dis
 
 ---
 
-## 🧠 Operating Mechanics
 
-I tackle engineering with a strict evaluation discipline—preferring to complete a full deliverable in one sustained push rather than breaking focus with interval timers. My architecture sessions are usually fueled by high-energy cello arrangements and a 3D-printed magnetic PLA fidget slider. When I step away from the terminal, I reset my kinetic chain with Desi Dand push-ups or by chasing cognitive flow states on mountain treks.
